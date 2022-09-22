@@ -29,3 +29,5 @@ npm i react-router-dom
 ```
 
 #### #04 ChakraProvider and React Router Setting
+
+#### #05 NotFound page with Chakra G.O.D
