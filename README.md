@@ -27,3 +27,5 @@ npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```bash
 npm i react-router-dom
 ```
+
+#### #04 ChakraProvider and React Router Setting
