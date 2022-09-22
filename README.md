@@ -40,3 +40,5 @@ npm i react-router-dom
 ```bash
 npm i react-icons --save
 ```
+
+#### #07 Funny GOD Chakra
