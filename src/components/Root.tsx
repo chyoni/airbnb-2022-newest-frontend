@@ -3,7 +3,7 @@ import { Outlet } from 'react-router-dom';
 import { FaAirbnb } from 'react-icons/fa';
 export default function Root() {
   return (
-    <Box>
+    <Box fontFamily={'Ayuthaya'}>
       <HStack
         py={5}
         px={'24'}
@@ -14,7 +14,7 @@ export default function Root() {
           <Box color={'red.500'} alignItems={'center'}>
             <FaAirbnb size={38} />
           </Box>
-          <Text color={'red.500'}>Chyoneebnb</Text>
+          <Text color={'red.500'}>Cneebnb</Text>
         </HStack>
         <HStack>
           <Button>Log in</Button>
